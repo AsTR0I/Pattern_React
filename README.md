@@ -1,4 +1,4 @@
-# для использования \
+# для использования 
     git clone https://github.com/AsTR0I/Pattern_React.git \
     git init
 
