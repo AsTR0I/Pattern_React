@@ -1,6 +1,6 @@
 #для использования
-git clone https://github.com/AsTR0I/Pattern_React.git
-git init
+    git clone https://github.com/AsTR0I/Pattern_React.git \
+    git init
 
 # Getting Started with Create React App
 
