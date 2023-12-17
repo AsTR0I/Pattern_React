@@ -1,6 +1,8 @@
 # для использования 
     git clone https://github.com/AsTR0I/Pattern_React.git
+    cd Pattern-React
     git init
+    npm install
 
 # Getting Started with Create React App
 
